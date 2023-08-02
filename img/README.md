@@ -1,0 +1,1 @@
+The image zip file in this repository is not the full version. Only a sample of the training data used to prove functionality of the code. 
